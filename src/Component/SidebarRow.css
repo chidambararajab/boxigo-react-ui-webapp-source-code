@@ -1,0 +1,51 @@
+.sidebar_row {
+  display: flex;
+  flex: 0.1;
+  align-items: center;
+  padding-left: 10px;
+}
+/*  
+padding: 10px 20px;
+
+*/
+
+.sidebar_row_icon {
+  color: rgb(124, 124, 124);
+  font-size: large !important;
+  font-size: 30px !important;
+  padding-right: 10px;
+}
+
+.sidebar_row_title {
+  flex: 1;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.sidebar_row:hover {
+  background-color: rgb(253, 253, 253);
+  cursor: pointer;
+  border-left: 5px solid #ec5642;
+}
+
+/*When hover, the Icon become orange*/
+.sidebar_row:hover > .sidebar_row_icon {
+  color: #ec5642;
+}
+
+.sidebar_row:hover > .sidebar_row_title {
+  font-weight: bold;
+}
+
+.sidebar_row.selected {
+  background-color: rgb(253, 253, 253);
+  border-left: 5px solid #ec5642;
+}
+
+.sidebar_row.selected > .sidebar_row_icon {
+  color: #ec5642;
+}
+
+.sidebar_row.selected > .sidebar_row_title {
+  font-weight: bold;
+}

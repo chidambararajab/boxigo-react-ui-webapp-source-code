@@ -1,0 +1,41 @@
+.housedetails {
+  padding-left: 20px;
+  flex: 0.8;
+}
+.houseDetails_topDetails {
+  display: flex;
+  align-items: center;
+}
+.houseDetails_buttonDiv {
+  padding-left: 15px;
+}
+.houseDetails_button {
+  background: black;
+  border-radius: 2px;
+  width: 100%;
+  height: 30px;
+  border: 2px solid;
+  margin-top: 10px;
+  color: white;
+  border-radius: 10%;
+  height: 33px;
+  width: 110px;
+}
+
+.houseDetails_houseDetails {
+  display: flex;
+  align-items: center;
+}
+.houseDetails_details {
+  padding-right: 90px;
+}
+.houseDetails_subTitle {
+  color: #ec5642;
+}
+.hr {
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

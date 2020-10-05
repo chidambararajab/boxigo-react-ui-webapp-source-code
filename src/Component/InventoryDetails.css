@@ -1,0 +1,56 @@
+.inventoryDetails {
+  padding-left: 20px;
+  flex: 0.8;
+}
+
+.inventoryDetails_subDetails {
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: lightgray;
+  color: #ec5642;
+  display: flex;
+  align-items: center;
+}
+
+.inventoryDetails_button {
+  background: black;
+  border-radius: 2px;
+  width: 100%;
+  height: 30px;
+  border: 2px solid;
+  margin-top: 10px;
+  color: white;
+  border-radius: 10%;
+  height: 33px;
+  width: 110px;
+}
+.inventoryDetails_topDetails {
+  display: flex;
+  align-items: center;
+}
+.inventoryDetails_buttonDiv {
+  padding-left: 15px;
+}
+.inventoryDetails_icon {
+  align-items: flex-end;
+}
+.inventoryDetails_icon1 {
+  padding-left: 1000px;
+  padding-right: 10px;
+}
+.inventoryDetails_icon2 {
+  padding-left: 1017px;
+  padding-right: 10px;
+}
+.inventoryDetails_icon3 {
+  padding-left: 1037px;
+  padding-right: 10px;
+}
+.inventoryDetails_icon4 {
+  padding-left: 1020px;
+  padding-right: 10px;
+}
+.inventoryDetails_subDetails_count {
+  padding-left: 10px;
+}

@@ -1,0 +1,15 @@
+.logout {
+  flex: 0.8;
+  padding: 20px;
+  border: 1px solid whitesmoke;
+  padding: 10px;
+}
+.logout_image {
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}

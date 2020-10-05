@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boxigo-interview/static/css/main.f3114266.chunk.css",
+    "main.js": "/boxigo-interview/static/js/main.3afb64f3.chunk.js",
+    "main.js.map": "/boxigo-interview/static/js/main.3afb64f3.chunk.js.map",
+    "runtime-main.js": "/boxigo-interview/static/js/runtime-main.c45a5cb3.js",
+    "runtime-main.js.map": "/boxigo-interview/static/js/runtime-main.c45a5cb3.js.map",
+    "static/js/2.a26c5ba5.chunk.js": "/boxigo-interview/static/js/2.a26c5ba5.chunk.js",
+    "static/js/2.a26c5ba5.chunk.js.map": "/boxigo-interview/static/js/2.a26c5ba5.chunk.js.map",
+    "index.html": "/boxigo-interview/index.html",
+    "precache-manifest.dc68b2ee0c75678accca54a219a027dd.js": "/boxigo-interview/precache-manifest.dc68b2ee0c75678accca54a219a027dd.js",
+    "service-worker.js": "/boxigo-interview/service-worker.js",
+    "static/css/main.f3114266.chunk.css.map": "/boxigo-interview/static/css/main.f3114266.chunk.css.map",
+    "static/js/2.a26c5ba5.chunk.js.LICENSE.txt": "/boxigo-interview/static/js/2.a26c5ba5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c45a5cb3.js",
+    "static/js/2.a26c5ba5.chunk.js",
+    "static/css/main.f3114266.chunk.css",
+    "static/js/main.3afb64f3.chunk.js"
+  ]
+}
